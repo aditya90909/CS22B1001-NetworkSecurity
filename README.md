@@ -177,7 +177,7 @@ For 1024-bit keys, key generation takes a few seconds on modern hardware. Encryp
 
 Below are the results from running the demonstration script that showcases the RSA encryption, decryption, and digital signature verification processes:
 
-![RSA Key Generation Output](Images/RSA-keygeneration/jpg)
+![RSA Key Generation Output](Images/RSA-keygeneration.jpg)
 
 The image above shows the RSA key generation process, displaying both the public key (e, n) and private key (d, n) components. The large values of n, e, and d demonstrate the security of RSA through large numbers.
 
