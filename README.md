@@ -1,7 +1,13 @@
 
-# Aditya Kumar Singh 
-# CS22B1001
-# RSA Algorithm Implementation Report
+# 🔐 RSA Algorithm Implementation Report
+
+---
+
+## 📄 Student Details
+
+- **Name:** Aditya Kumar Singh
+- **Roll Number:** CS22B1001
+
  
 ## Overview
 
@@ -171,15 +177,15 @@ For 1024-bit keys, key generation takes a few seconds on modern hardware. Encryp
 
 Below are the results from running the demonstration script that showcases the RSA encryption, decryption, and digital signature verification processes:
 
-![RSA Key Generation Output](https://example.com/images/rsa_key_generation.png)
+![RSA Key Generation Output](Images/RSA-keygeneration/jpg)
 
 The image above shows the RSA key generation process, displaying both the public key (e, n) and private key (d, n) components. The large values of n, e, and d demonstrate the security of RSA through large numbers.
 
-![RSA Encryption and Decryption Output](https://example.com/images/rsa_encryption.png)
+![RSA Encryption and Decryption Output](Images/EncryptandDecrypt.jpg)
 
 This image demonstrates the encryption and decryption of both numeric and text messages. Note how the encrypted values are completely different from the original messages, and how the decryption process successfully recovers the original data.
 
-![RSA Digital Signature Output](https://example.com/images/rsa_signature.png)
+![RSA Digital Signature Output](Images/DigitalSignature.jpg)
 
 This final image shows the digital signature process in action:
 1. A signature is generated for the original message using the private key
